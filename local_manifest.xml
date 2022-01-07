@@ -2,7 +2,7 @@
 <manifest>
   <remote name="Guilherme2041" fetch="https://github.com/Guilherme2041" />
             
-  <project path="device/asus/A001D" name="android_device_asus_A001D" remote="Guilherme2041" revision="eleven" />
+  <project path="device/asus/A001D" name="android_device_asus_A001D" remote="Guilherme2041" revision="lineage" />
   <project path="vendor/asus/A001D" name="vendor_asus_A001D" remote="Guilherme2041" revision="11" />
   <project path="kernel/asus/A001D" name="kernel_asus_A001D" remote="Guilherme2041" revision="11" />
 </manifest>
